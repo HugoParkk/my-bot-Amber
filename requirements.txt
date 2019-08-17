@@ -1,6 +1,6 @@
 discord.py==1.2.3
 async-timeout==3.0.1
-bs4==2.5.0
+bs4==
 time==3.7.4
 random==3.7.4
 urllib==1.25.3
