@@ -1,10 +1,10 @@
 discord.py==1.2.3
 async-timeout==3.0.1
 bs4==
-time==
-random==
+time==3.6.2
+random==3.6.2
 urllib==1.25.3
-datetime==
+datetime==3.6.2
 selenium==3.141.0
 urllib.request==1.25.3
 openpyx1==2.6.1
